@@ -27,7 +27,7 @@ How to end turn:
 by clicking on end turn button
 ----
 Screen Orientation:
-Current hero is at the bottom of the screen and opponent is at the top
+Current hero is at the bottom of the screen and opponent is at the top 
 ----
 Mage and Priest hero power:
 you must first select target minion before clicking on hero power
