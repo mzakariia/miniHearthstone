@@ -1,6 +1,4 @@
-
-
-How to run the game:
+###How to run the game:
 Import java file 
 open controller class then run
 ----
