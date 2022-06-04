@@ -1,4 +1,4 @@
-# miniHearthstone
+
 
 How to run the game:
 Import java file 
